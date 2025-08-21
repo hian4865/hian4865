@@ -6,9 +6,9 @@ Aspiring Game Developer and Student Web Developer
 
 I have recently started learning Web Development and have recently full sent my education on Game Development.
 
-* 🌍  I'm based in Haleyville, Alabama
-* ✉️  You can contact me at [hian87788@gmail.com](mailto:hian87788@gmail.com)
-* 🧠  I'm currently learning HTML, CSS, and JavaScript
+* 🌍  I live in Haleyville, Alabama.
+* ✉️  You can contact me at [hian87788@gmail.com](mailto:hian87788@gmail.com) on all weekdays.
+* 🧠  I'm currently learning HTML, CSS, and JavaScript. I also plan to learn C# to help further my growth in Game Development.
 * 👥  I'm looking to collaborate on Video Games and Web Pages
 
 <p align="left">
